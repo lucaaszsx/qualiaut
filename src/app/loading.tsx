@@ -1,7 +1,7 @@
 'use client';
 
 import { DotLottieReact } from '@lottiefiles/dotlottie-react';
-import { motion } from 'framer-motion';
+// import { motion } from 'framer-motion';
 import Styles from '@/styles/pages/LoadingPageStyle.module.css';
 
 export default function Loading() {
