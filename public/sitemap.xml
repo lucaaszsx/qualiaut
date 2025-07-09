@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://qualiaut.vercel.app/</loc>
+    <priority>1.00</priority>
+  </url>
+  <url>
+    <loc>https://qualiaut.vercel.app/hub-das-maes</loc>
+    <priority>0.90</priority>
+  </url>
+  <url>
+    <loc>https://qualiaut.vercel.app/espaco-de-cuidado</loc>
+    <priority>0.90</priority>
+  </url>
+  <url>
+    <loc>https://qualiaut.vercel.app/direitos-e-beneficios</loc>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://qualiaut.vercel.app/chat</loc>
+    <priority>0.70</priority>
+  </url>
+  <url>
+    <loc>https://qualiaut.vercel.app/login</loc>
+    <priority>0.50</priority>
+  </url>
+</urlset>
